@@ -1,4 +1,4 @@
-//hello world
+//NIME instrument #2
 const int buttonPin1 = 2;
 const int buttonPin2 = 3;
 const int buttonPin3 = 4;
